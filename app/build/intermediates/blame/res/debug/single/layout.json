@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_big_image.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_view_big_image.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide_shade_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_slide_shade_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_android.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_android.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide_shade_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_slide_shade_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_deed_back.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_deed_back.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kaws_refresh_header.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\CloudReader-master\\xrecyclerview\\unspecified\\res\\layout\\kaws_refresh_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_empty.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_empty.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_one_movie_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_one_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_android.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_android.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_book_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_movie_header.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_movie_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_welfare.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_welfare.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_movie_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_one_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_download.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_download.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_list_entry.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_list_entry.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_item_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_middle_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\home_middle_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_deed_back.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_deed_back.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_empty.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_empty.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_movie_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_welfare.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_welfare.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_middle_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\home_middle_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_movie_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_three.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_three.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_gank.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_gank.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide_scrool_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_slide_scrool_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_header_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_header_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_header_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_header_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_two.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_two.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_grid_entry.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_grid_entry.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_home_page.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_home_page.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_title.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_title.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_home_page.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_home_page.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_test.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_movie_detail_person.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_movie_detail_person.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_item_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_item_everyday.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\footer_item_everyday.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_item_everyday.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_item_everyday.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_title.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_title.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welfare.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_welfare.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_everyday.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_everyday.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_slide_shape.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_slide_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_custom.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_movie_detail_person.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_movie_detail_person.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide_scrool_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_slide_scrool_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yun_refresh_footer.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\CloudReader-master\\xrecyclerview\\unspecified\\res\\layout\\yun_refresh_footer.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_slide_shape.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_slide_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_list_divider.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_list_divider.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_android.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_android.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_gank_custom.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_item_gank_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_everyday.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_everyday.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_movie_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transition.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_transition.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_two.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_two.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_about.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_about.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_three.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_three.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_header.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_movie_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_android.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_android.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\base_header_title_bar.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\base_header_title_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_item_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\footer_item_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\content_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_item_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_item_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_douban_top.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_douban_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_welfare.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_welfare.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_douban_top.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\title_douban_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_douban_top.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_douban_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_douban_top.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_douban_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_book_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_book_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transition.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_transition.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_book_detail.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_book_detail.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.youth.banner\\banner\\1.4.2\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_header_title_bar.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\base_header_title_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\footer_item_book.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\footer_item_book.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_view_bg.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\sliding_view_bg.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_header.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_one.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\item_everyday_one.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_very_image.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\viewpager_very_image.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_book_custom.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_book_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_everyday.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\header_item_everyday.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\footer_item_everyday.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\footer_item_everyday.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_about.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_about.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_download.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_nav_download.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gank.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_gank.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_custom.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\fragment_book_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet_dialog.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_douban_top.xml",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\layout\\activity_douban_top.xml"
+    }
+]
