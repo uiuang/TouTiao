@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_search.png",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\actionbar_search.png"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_more.png",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\actionbar_more.png"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_share.png",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\actionbar_share.png"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_everyday.png",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\loading_everyday.png"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cloudreader.png",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\ic_cloudreader.png"
+    },
+    {
+        "merged": "F:\\Android\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "F:\\Android\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    }
+]
